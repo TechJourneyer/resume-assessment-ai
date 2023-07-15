@@ -1,0 +1,8 @@
+{
+    "require": {
+        "guzzlehttp/guzzle": "^6.5",
+        "vlucas/phpdotenv": "^4.3",
+        "monolog/monolog": "^1.27",
+        "dompdf/dompdf": "^0.8.3"
+    }
+}

@@ -1,0 +1,18 @@
+# Ignore vendor directory
+/vendor/
+
+# Ignore log files
+/logs/
+
+# Ignore Composer dependencies
+/composer.phar
+/vendor/
+/.env
+
+# Ignore IDE files
+/.vscode/
+/.idea/
+
+# Ignore operating system files
+.DS_Store
+Thumbs.db
